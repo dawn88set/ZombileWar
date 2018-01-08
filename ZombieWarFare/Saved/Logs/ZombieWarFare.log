@@ -603,3 +603,8 @@ LogInit: Object subsystem initialized
 [2018.01.08-13.23.34:046][491]LogSavePackage: Save=39.99ms
 [2018.01.08-13.23.34:046][491]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/Zombie2B30835C4355C88112C35F9E9737C669.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Blueprints/AI/Zombie.uasset'
 [2018.01.08-13.23.34:058][491]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Blueprints/AI/Zombie.uasset
+[2018.01.08-13.33.23:642][116]LogSavePackage: Save=218.91ms
+[2018.01.08-13.33.23:642][116]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/ThirdPersonExampleMap_Auto2426BC52141CCD11424482ABB277A2AE8.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.01.08-13.33.23:648][116]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2018.01.08-13.33.23:656][116]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.314
+[2018.01.08-13.33.23:656][116]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.314
