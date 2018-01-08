@@ -1,0 +1,605 @@
+﻿Log file open, 01/07/18 21:05:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ZombieWarFare
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1655869908) SRandInit(1655869908).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3709383, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.172193
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3709383
+LogInit: Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Oct 20 2017 10:39:19
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.07-19.05.18:800][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.07-19.05.18:800][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.07-19.05.18:822][  0]LogInit: Computer: USER
+[2018.01.07-19.05.18:822][  0]LogInit: User: admin
+[2018.01.07-19.05.18:822][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.01.07-19.05.18:822][  0]LogInit: High frequency timer resolution =2.240910 MHz
+[2018.01.07-19.05.18:823][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.07-19.05.18:823][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.07-19.05.18:823][  0]LogMemory: Process Physical Memory: 274.45 MB used, 274.45 MB peak
+[2018.01.07-19.05.18:823][  0]LogMemory: Process Virtual Memory: 269.60 MB used, 269.60 MB peak
+[2018.01.07-19.05.18:823][  0]LogMemory: Physical Memory: 5354.18 MB used,  2742.89 MB free, 8097.07 MB total
+[2018.01.07-19.05.18:823][  0]LogMemory: Virtual Memory: 664.94 MB used,  2742.89 MB free, 134217728.00 MB total
+[2018.01.07-19.05.19:264][  0]LogInit: Using OS detected language (en-US).
+[2018.01.07-19.05.19:265][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.07-19.05.19:277][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.07-19.05.19:979][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.07-19.05.20:626][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.07-19.05.20:644][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 5000' (Feature Level 11_0)
+[2018.01.07-19.05.20:644][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x8086
+[2018.01.07-19.05.20:647][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.07-19.05.20:647][  0]LogD3D11RHI:       0/0/4048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.07-19.05.20:647][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.07-19.05.20:660][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.07-19.05.20:660][  0]LogD3D11RHI:     GPU DeviceId: 0xa26 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.07-19.05.20:661][  0]LogWindows: EnumDisplayDevices:
+[2018.01.07-19.05.20:662][  0]LogWindows:    0. 'Intel(R) HD Graphics 5000' (P:0 D:1)
+[2018.01.07-19.05.20:664][  0]LogWindows:    1. 'Intel(R) HD Graphics 5000' (P:1 D:1)
+[2018.01.07-19.05.20:665][  0]LogWindows:    2. 'Intel(R) HD Graphics 5000' (P:0 D:0)
+[2018.01.07-19.05.20:665][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.07-19.05.20:665][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 5000
+[2018.01.07-19.05.20:665][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.07-19.05.20:665][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.07-19.05.20:665][  0]LogRHI: Texture pool is 795 MB (70% of 1136 MB)
+[2018.01.07-19.05.20:679][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.07-19.05.20:687][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2018.01.07-19.05.20:689][  0]LogShaderCompilers: Guid format shader working directory is -42 characters bigger than the processId version (../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Intermediate/Shaders/WorkingDirectory/1188/).
+[2018.01.07-19.05.20:690][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/admin/AppData/Local/Temp/UnrealShaderWorkingDir/8B60C2664ACE84BD480968AAC801A742/'.
+[2018.01.07-19.05.20:690][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.07-19.05.22:843][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.07-19.05.22:968][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.07-19.05.23:083][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.07-19.05.23:184][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.07-19.05.23:318][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.07-19.05.23:438][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.07-19.05.23:552][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.07-19.05.23:650][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.07-19.05.23:748][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.07-19.05.23:862][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.07-19.05.24:002][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.07-19.05.24:150][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.07-19.05.24:282][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.07-19.05.24:383][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.07-19.05.24:712][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.07-19.05.24:712][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.07-19.05.24:869][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.07-19.05.25:015][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.07-19.05.25:236][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.07-19.05.25:286][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.07-19.05.25:389][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.07-19.05.25:486][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.07-19.05.25:584][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.07-19.05.25:682][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.07-19.05.25:682][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.07-19.05.27:006][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.07-19.05.27:139][  0]LogDerivedDataCache: Loaded boot cache 0.13s 78MB C:/Users/admin/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.07-19.05.27:139][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/admin/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.07-19.05.27:139][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.07-19.05.27:139][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.07-19.05.27:140][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.07-19.05.27:140][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.07-19.05.27:177][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.07-19.05.27:191][  0]LogDerivedDataCache: Using Local data cache path C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.07-19.05.27:215][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.07-19.05.27:216][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.07-19.05.27:216][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.07-19.05.27:217][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.07-19.05.28:057][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.07-19.05.28:856][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.07-19.05.29:007][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.07-19.05.29:007][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.07-19.05.29:007][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.07-19.05.29:007][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.07-19.05.29:007][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.07-19.05.29:095][  0]LogNetVersion: ZombieWarFare , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 518889866)
+[2018.01.07-19.05.29:528][  0]LogAssetRegistry: FAssetRegistry took 0.0292 seconds to start up
+[2018.01.07-19.05.30:673][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.159990 seconds
+[2018.01.07-19.05.30:684][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.07-19.05.30:685][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2018.01.07-19.05.30:685][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.07-19.05.30:785][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.07-19.05.36:623][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.07-19.05.36:697][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.07-19.05.38:094][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.07-19.05.38:959][  0]SourceControl: Source control is disabled
+[2018.01.07-19.05.38:959][  0]SourceControl: Source control is disabled
+[2018.01.07-19.05.39:078][  0]SourceControl: Source control is disabled
+[2018.01.07-19.05.39:227][  0]SourceControl: Source control is disabled
+[2018.01.07-19.05.41:829][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.07-19.05.42:575][  0]LogOcInput: OculusInput pre-init called
+[2018.01.07-19.05.43:165][  0]LogEngine: Initializing Engine...
+[2018.01.07-19.05.43:168][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.07-19.05.43:505][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.07-19.05.43:507][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.07-19.05.43:768][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.07-19.05.43:781][  0]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.07-19.05.43:808][  0]LogInit: FAudioDevice initialized.
+[2018.01.07-19.05.43:982][  0]LogDerivedDataCache: Saved boot cache 0.17s 78MB C:/Users/admin/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.07-19.05.43:995][  0]LogInit: Texture streaming: Enabled
+[2018.01.07-19.05.44:215][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.07-19.05.44:565][  0]LogInit: Transaction tracking system initialized
+[2018.01.07-19.05.46:201][  0]BlueprintLog: New page: Editor Load
+[2018.01.07-19.05.48:808][  0]LocalizationService: Localization service is disabled
+[2018.01.07-19.05.51:929][  0]LogConsoleResponse: Display: 
+[2018.01.07-19.05.52:505][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.07-19.05.52:505][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.07-19.05.52:506][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.07-19.05.53:029][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/' took 0.03s
+[2018.01.07-19.05.55:732][  0]SourceControl: Source control is disabled
+[2018.01.07-19.05.55:732][  0]Cmd: MAP LOAD FILE="../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.07-19.05.55:734][  0]LightingResults: New page: Lighting Build
+[2018.01.07-19.05.55:840][  0]MapCheck: New page: Map Check
+[2018.01.07-19.05.55:840][  0]LightingResults: New page: Lighting Build
+[2018.01.07-19.05.57:162][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.07-19.05.57:213][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.07-19.05.57:251][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.07-19.05.57:435][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 183.965ms to complete.
+[2018.01.07-19.05.57:435][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.703
+[2018.01.07-19.05.57:797][  0]LogCollectionManager: Loaded 0 collections in 0.002474 seconds
+[2018.01.07-19.05.57:986][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/Collections/' took 0.01s
+[2018.01.07-19.05.57:986][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Developers/admin/Collections/' took 0.01s
+[2018.01.07-19.05.57:986][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Collections/' took 0.01s
+[2018.01.07-19.05.57:986][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2018.01.07-19.05.58:007][  0]LogContentBrowser: Native class hierarchy populated in 0.0174 seconds. Added 2363 classes and 519 folders.
+[2018.01.07-19.05.58:160][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.01.07-19.05.58:510][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.01.07-19.05.58:628][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.01.07-19.05.58:980][  0]LogSlate: Took 0.001047 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.07-19.05.58:986][  0]LogSlate: Took 0.000457 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.07-19.05.59:005][  0]LogSlate: Took 0.001772 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.07-19.05.59:290][  0]LogRenderer: Reallocating scene render targets to support 1196x368 Format 9 NumSamples 1 (Frame:1).
+[2018.01.07-19.06.00:294][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.07-19.06.00:294][  0]LogLoad: (Engine Initialization) Total time: 47.91 seconds
+[2018.01.07-19.06.00:294][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.07-19.06.00:294][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.07-19.06.00:679][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.01.07-19.06.00:742][  0]LogSlate: Took 0.002682 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.07-19.06.01:352][  2]LogAssetRegistry: Asset discovery search completed in 31.8464 seconds
+[2018.01.07-19.06.01:362][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.07-19.06.01:362][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000129 seconds (updated 0 objects)
+[2018.01.07-19.06.11:361][249]LogSlate: Took 0.000499 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.07-19.06.11:712][249]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.01.07-19.06.11:960][249]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.07-19.06.12:232][249]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.01.07-19.06.12:887][249]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2018.01.07-19.06.14:187][249]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.01.07-19.06.14:709][249]LogSlate: Took 0.001790 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.07-19.06.14:926][249]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.01.07-19.06.15:057][249]LogRenderer: Reallocating scene render targets to support 1196x420 Format 9 NumSamples 1 (Frame:1).
+[2018.01.07-19.06.15:058][249]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.07-19.06.15:107][250]LogSlate: Took 0.004590 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.07-19.06.45:061][623]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.01.07-19.06.49:025][623]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2018.01.07-19.07.00:628][623]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.01.07-19.07.08:535][691]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.01.07-19.07.09:330][691]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.01.07-19.07.10:342][691]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.07-19.08.46:013][ 58]BlueprintLog: New page: Compile Zombie_AB_new
+[2018.01.07-19.08.46:065][ 58]LogBlueprint: Warning: [Compiler Zombie_AB_new] Idle to walk/run  will never be taken, please connect something to  Can Enter Transition
+[2018.01.07-19.08.46:399][ 58]LogBlueprint: Warning: [Compiler Zombie_AB_new] [0214.01] Compile of Zombie_AB_new successful, but with 1 Warning(s) [in 385 ms] (/Game/Assets/Zombie_Char/Zombie_AB_new.Zombie_AB_new)
+[2018.01.07-19.08.55:323][191]BlueprintLog: New page: Compile Zombie_AB_new
+[2018.01.07-19.08.55:370][191]LogBlueprint: Warning: [Compiler Zombie_AB_new] Idle to walk/run  will never be taken, please connect something to  Can Enter Transition
+[2018.01.07-19.08.55:740][191]LogBlueprint: Warning: [Compiler Zombie_AB_new] [0223.35] Compile of Zombie_AB_new successful, but with 1 Warning(s) [in 416 ms] (/Game/Assets/Zombie_Char/Zombie_AB_new.Zombie_AB_new)
+[2018.01.07-19.09.35:211][773]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.07-19.09.38:524][931]LogSavePackage: Save=59.71ms
+[2018.01.07-19.09.38:525][931]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/Zombie_AB_new1679AD204EB8FB8A86FB14A0EAC3BBF2.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Assets/Zombie_Char/Zombie_AB_new.uasset'
+[2018.01.07-19.09.38:537][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Assets/Zombie_Char/Zombie_AB_new.uasset
+[2018.01.07-19.09.43:874][183]BlueprintLog: New page: Compile Zombie
+[2018.01.07-19.09.45:404][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/Zombie" FILE="../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Blueprints/AI/Zombie.uasset" SILENT=true
+[2018.01.07-19.09.45:475][212]LogSavePackage: Save=33.65ms
+[2018.01.07-19.09.45:475][212]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/ZombieA7501F32488D806077C884844ED6C0A2.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Blueprints/AI/Zombie.uasset'
+[2018.01.07-19.09.45:493][212]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Blueprints/AI/Zombie.uasset
+[2018.01.07-19.09.47:160][271]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.07-19.09.47:265][271]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.07-19.09.47:266][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.07-19.09.47:270][271]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 7, 2018, 11:09:47 PM)
+[2018.01.07-19.09.47:271][271]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.07-19.09.47:306][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035341s)
+[2018.01.07-19.09.47:307][271]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.07-19.09.47:307][271]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2018.01.07-19.09.47:308][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.037067s)
+[2018.01.07-19.09.47:344][271]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.07-19.09.47:366][271]LogInit: FAudioDevice initialized.
+[2018.01.07-19.09.47:428][271]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.07-19.09.47:434][271]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.07-21.09.47
+[2018.01.07-19.09.47:446][271]LogWorld: Bringing up level for play took: 0.016761
+[2018.01.07-19.09.47:521][271]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.01.07-19.09.47:526][271]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.382
+[2018.01.07-19.09.47:528][271]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.07-19.09.54:267][548]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.07-19.09.54:324][548]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.07-19.10.58:796][323]BlueprintLog: New page: Compile Zombie_AB_new
+[2018.01.07-19.10.58:820][323]LogBlueprint: Warning: [Compiler Zombie_AB_new] Idle to walk/run  will never be taken, please connect something to  Can Enter Transition
+[2018.01.07-19.10.58:821][323]LogBlueprint: Warning: [Compiler Zombie_AB_new] walk/run to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.01.07-19.10.59:076][323]LogBlueprint: Warning: [Compiler Zombie_AB_new] [0346.69] Compile of Zombie_AB_new successful, but with 2 Warning(s) [in 279 ms] (/Game/Assets/Zombie_Char/Zombie_AB_new.Zombie_AB_new)
+[2018.01.07-19.11.03:813][442]LogSavePackage: Save=85.02ms
+[2018.01.07-19.11.03:813][442]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/Zombie_AB_new8D501F5D42D291AA8D1CA38B7E331D82.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Assets/Zombie_Char/Zombie_AB_new.uasset'
+[2018.01.07-19.11.03:831][442]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Assets/Zombie_Char/Zombie_AB_new.uasset
+[2018.01.07-19.11.17:774][751]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.01.07-19.11.17:839][751]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2018.01.07-19.11.18:801][751]LogRenderer: Reallocating scene render targets to support 1196x548 Format 9 NumSamples 1 (Frame:1).
+[2018.01.07-19.11.18:801][751]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.07-19.12.43:391][632]LogSavePackage: Save=26.91ms
+[2018.01.07-19.12.43:391][632]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/Zombie_blend3E31058F46FDADD4A0B1A3A79F1A591F.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Assets/Zombie_Char/Zombie_blend.uasset'
+[2018.01.07-19.12.43:407][632]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Assets/Zombie_Char/Zombie_blend.uasset
+[2018.01.07-19.15.32:663][529]LogSavePackage: Save=19.47ms
+[2018.01.07-19.15.32:664][529]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/Zombie_blend480A23E74F15583730BBDDBC3916FF37.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Assets/Zombie_Char/Zombie_blend.uasset'
+[2018.01.07-19.15.32:684][529]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Assets/Zombie_Char/Zombie_blend.uasset
+[2018.01.07-19.15.59:745][219]BlueprintLog: New page: Compile Zombie_AB_new
+[2018.01.07-19.15.59:784][219]LogBlueprint: Warning: [Compiler Zombie_AB_new] Idle to walk/run  will never be taken, please connect something to  Can Enter Transition
+[2018.01.07-19.15.59:784][219]LogBlueprint: Warning: [Compiler Zombie_AB_new] walk/run to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.01.07-19.16.00:052][219]LogBlueprint: Warning: [Compiler Zombie_AB_new] [0647.66] Compile of Zombie_AB_new successful, but with 2 Warning(s) [in 306 ms] (/Game/Assets/Zombie_Char/Zombie_AB_new.Zombie_AB_new)
+[2018.01.07-19.16.51:150][488]BlueprintLog: New page: Compile Zombie_AB_new
+[2018.01.07-19.16.51:188][488]LogBlueprint: Warning: [Compiler Zombie_AB_new] Idle to walk/run  will never be taken, please connect something to  Can Enter Transition
+[2018.01.07-19.16.51:188][488]LogBlueprint: Warning: [Compiler Zombie_AB_new] walk/run to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.01.07-19.16.51:434][488]LogBlueprint: Warning: [Compiler Zombie_AB_new] [0699.05] Compile of Zombie_AB_new successful, but with 2 Warning(s) [in 282 ms] (/Game/Assets/Zombie_Char/Zombie_AB_new.Zombie_AB_new)
+[2018.01.07-19.19.13:077][ 33]BlueprintLog: New page: Compile Zombie_AB_new
+[2018.01.07-19.19.13:146][ 33]LogBlueprint: Warning: [Compiler Zombie_AB_new] Idle to walk/run  will never be taken, please connect something to  Can Enter Transition
+[2018.01.07-19.19.13:146][ 33]LogBlueprint: Warning: [Compiler Zombie_AB_new] walk/run to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.01.07-19.19.13:392][ 33]LogBlueprint: Warning: [Compiler Zombie_AB_new] [0841.00] Compile of Zombie_AB_new successful, but with 2 Warning(s) [in 314 ms] (/Game/Assets/Zombie_Char/Zombie_AB_new.Zombie_AB_new)
+[2018.01.07-19.20.03:056][ 12]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.01.07-19.20.03:112][ 12]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2018.01.07-19.20.04:210][ 12]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.07-19.21.46:576][750]BlueprintLog: New page: Compile Zombie_AB_new
+[2018.01.07-19.21.46:655][750]LogBlueprint: Warning: [Compiler Zombie_AB_new] walk/run to Idle  will never be taken, please connect something to  Can Enter Transition
+[2018.01.07-19.21.46:951][750]LogBlueprint: Warning: [Compiler Zombie_AB_new] [0994.56] Compile of Zombie_AB_new successful, but with 1 Warning(s) [in 374 ms] (/Game/Assets/Zombie_Char/Zombie_AB_new.Zombie_AB_new)
+[2018.01.07-19.22.22:539][347]LogSlate: Took 0.000559 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.07-19.22.34:622][529]LogSavePackage: Save=230.23ms
+[2018.01.07-19.22.34:622][529]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/ThirdPersonExampleMap_Auto1C60BAC424B0D927CF3364286D6EBD631.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.01.07-19.22.34:627][529]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.01.07-19.22.34:632][529]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.332
+[2018.01.07-19.22.34:632][529]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.332
+[2018.01.07-19.22.34:642][529]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Zombie_Char/Zombie_AB_new] ([1] browsable assets)...
+[2018.01.07-19.22.34:661][529]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Assets/Zombie_Char/Zombie_AB_new.Zombie_AB_new]
+[2018.01.07-19.22.34:661][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Zombie_Char/Zombie_AB_new]
+[2018.01.07-19.22.34:776][529]LogSavePackage: Save=92.14ms
+[2018.01.07-19.22.34:777][529]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/Zombie_AB_new_Auto134400A0F4CC70EC7C97E44A2A33B4247.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/Autosaves/Game/Assets/Zombie_Char/Zombie_AB_new_Auto1.uasset'
+[2018.01.07-19.22.34:781][529]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/Autosaves/Game/Assets/Zombie_Char/Zombie_AB_new_Auto1.uasset
+[2018.01.07-19.22.34:781][529]LogFileHelpers: Auto-saving content packages took 0.147
+[2018.01.07-19.22.44:532][704]BlueprintLog: New page: Compile Zombie_AB_new
+[2018.01.07-19.22.47:249][752]LogSavePackage: Save=143.71ms
+[2018.01.07-19.22.47:249][752]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/Zombie_AB_new3635A9ED465D82A6856083B7FB67DAD8.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Assets/Zombie_Char/Zombie_AB_new.uasset'
+[2018.01.07-19.22.47:268][752]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Assets/Zombie_Char/Zombie_AB_new.uasset
+[2018.01.07-19.23.40:838][949]LogSavePackage: Save=96.39ms
+[2018.01.07-19.23.40:838][949]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/Zombie_AB_new214CABFA41E11B58E64F178730CC1938.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Assets/Zombie_Char/Zombie_AB_new.uasset'
+[2018.01.07-19.23.40:842][949]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Assets/Zombie_Char/Zombie_AB_new.uasset
+[2018.01.07-19.23.43:975][ 10]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.07-19.23.44:024][ 10]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.07-19.23.44:025][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.07-19.23.44:025][ 10]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 7, 2018, 11:23:44 PM)
+[2018.01.07-19.23.44:025][ 10]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.07-19.23.44:096][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070895s)
+[2018.01.07-19.23.44:098][ 10]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.07-19.23.44:098][ 10]LogPlayLevel: PIE: World Init took: (0.001737s)
+[2018.01.07-19.23.44:099][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.073480s)
+[2018.01.07-19.23.44:150][ 10]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.07-19.23.44:174][ 10]LogInit: FAudioDevice initialized.
+[2018.01.07-19.23.44:211][ 10]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.07-19.23.44:215][ 10]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.07-21.23.44
+[2018.01.07-19.23.44:215][ 10]LogWorld: Bringing up level for play took: 0.003684
+[2018.01.07-19.23.44:217][ 10]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.309
+[2018.01.07-19.23.44:217][ 10]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.07-19.23.51:555][281]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.07-19.23.51:612][281]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.07-19.24.11:906][453]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_4.DebugSkelMeshComponent_9) Already registered. Aborting.
+[2018.01.07-19.24.11:990][453]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.Actor_4.DebugSkelMeshComponent_9) - call TermArticulated first.
+[2018.01.07-19.24.13:374][453]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.07-19.24.20:737][596]LogSavePackage: Save=26.04ms
+[2018.01.07-19.24.20:737][596]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/Zombie_blend5A209A684CAB0F7627399C82494F2747.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Assets/Zombie_Char/Zombie_blend.uasset'
+[2018.01.07-19.24.20:755][596]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Assets/Zombie_Char/Zombie_blend.uasset
+[2018.01.07-19.24.24:282][673]LogSavePackage: Save=306.15ms
+[2018.01.07-19.24.24:282][673]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/ThirdPersonExampleMap0F0FC6FB43A1027A132B64B911FD461B.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.07-19.24.24:298][673]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.07-19.24.24:938][673]LogSavePackage: Save=546.40ms
+[2018.01.07-19.24.24:938][673]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/ThirdPersonExampleMap_BuiltDataA299B9884425A0AEFE5400A1B38493EB.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.01.07-19.24.24:944][673]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.01.07-19.24.26:523][719]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.07-19.24.26:560][719]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.07-19.24.26:561][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.07-19.24.26:561][719]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 7, 2018, 11:24:26 PM)
+[2018.01.07-19.24.26:562][719]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.07-19.24.26:635][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073708s)
+[2018.01.07-19.24.26:637][719]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.07-19.24.26:637][719]LogPlayLevel: PIE: World Init took: (0.001431s)
+[2018.01.07-19.24.26:637][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.075755s)
+[2018.01.07-19.24.26:689][719]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.07-19.24.26:712][719]LogInit: FAudioDevice initialized.
+[2018.01.07-19.24.26:747][719]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.07-19.24.26:751][719]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.07-21.24.26
+[2018.01.07-19.24.26:752][719]LogWorld: Bringing up level for play took: 0.004053
+[2018.01.07-19.24.26:754][719]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.846
+[2018.01.07-19.24.26:754][719]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.07-19.24.34:745][ 23]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.07-19.24.34:800][ 23]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.08-13.20.50:507][376]LogSavePackage: Save=24.88ms
+[2018.01.08-13.20.50:507][376]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/Zombie_Walk__1__AnimD8F721D9410BDEF0C64435BA46F825CA.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Assets/Zombie_Char/Zombie_Walk__1__Anim.uasset'
+[2018.01.08-13.20.50:523][376]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Assets/Zombie_Char/Zombie_Walk__1__Anim.uasset
+[2018.01.08-13.20.59:705][622]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.08-13.20.59:747][622]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.08-13.20.59:748][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.08-13.20.59:748][622]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 8, 2018, 5:20:59 PM)
+[2018.01.08-13.20.59:748][622]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.08-13.20.59:824][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075775s)
+[2018.01.08-13.20.59:825][622]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.08-13.20.59:826][622]LogPlayLevel: PIE: World Init took: (0.001934s)
+[2018.01.08-13.20.59:827][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.078527s)
+[2018.01.08-13.20.59:896][622]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.08-13.20.59:922][622]LogInit: FAudioDevice initialized.
+[2018.01.08-13.20.59:959][622]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.08-13.20.59:963][622]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.01.08-15.20.59
+[2018.01.08-13.20.59:963][622]LogWorld: Bringing up level for play took: 0.003891
+[2018.01.08-13.20.59:965][622]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.057
+[2018.01.08-13.20.59:965][622]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.08-13.21.05:333][823]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.08-13.21.05:393][823]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.08-13.21.13:752][ 12]LogSavePackage: Save=26.38ms
+[2018.01.08-13.21.13:752][ 12]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/zombie_run0C5AAF7E4F1AB8F3C11E5CB8ADAD59ED.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Assets/Zombie_Char/zombie_run.uasset'
+[2018.01.08-13.21.13:768][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Assets/Zombie_Char/zombie_run.uasset
+[2018.01.08-13.21.16:286][ 72]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.08-13.21.16:337][ 72]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.08-13.21.16:338][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.08-13.21.16:339][ 72]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 8, 2018, 5:21:16 PM)
+[2018.01.08-13.21.16:339][ 72]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.08-13.21.16:411][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070621s)
+[2018.01.08-13.21.16:412][ 72]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.08-13.21.16:413][ 72]LogPlayLevel: PIE: World Init took: (0.001793s)
+[2018.01.08-13.21.16:413][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.073635s)
+[2018.01.08-13.21.16:494][ 72]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.08-13.21.16:520][ 72]LogInit: FAudioDevice initialized.
+[2018.01.08-13.21.16:566][ 72]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.08-13.21.16:570][ 72]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.01.08-15.21.16
+[2018.01.08-13.21.16:571][ 72]LogWorld: Bringing up level for play took: 0.004679
+[2018.01.08-13.21.16:573][ 72]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.665
+[2018.01.08-13.21.16:573][ 72]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.08-13.21.33:878][765]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.08-13.21.33:931][765]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.08-13.21.39:125][889]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_5.DebugSkelMeshComponent_13) Already registered. Aborting.
+[2018.01.08-13.21.39:486][889]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.Actor_5.DebugSkelMeshComponent_13) - call TermArticulated first.
+[2018.01.08-13.21.40:009][889]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.08-13.22.07:889][829]BlueprintLog: New page: Compile Zombie_AB_new
+[2018.01.08-13.22.14:259][ 12]LogSavePackage: Save=100.77ms
+[2018.01.08-13.22.14:259][ 12]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/Zombie_AB_new3CAA6F0E4BFB6A023DD1098E3492C1E3.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Assets/Zombie_Char/Zombie_AB_new.uasset'
+[2018.01.08-13.22.14:279][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Assets/Zombie_Char/Zombie_AB_new.uasset
+[2018.01.08-13.22.15:797][ 53]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.08-13.22.15:826][ 53]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.08-13.22.15:827][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.08-13.22.15:827][ 53]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 8, 2018, 5:22:15 PM)
+[2018.01.08-13.22.15:827][ 53]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.08-13.22.15:883][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055493s)
+[2018.01.08-13.22.15:887][ 53]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.08-13.22.15:888][ 53]LogPlayLevel: PIE: World Init took: (0.004772s)
+[2018.01.08-13.22.15:889][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.061573s)
+[2018.01.08-13.22.15:959][ 53]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.08-13.22.15:980][ 53]LogInit: FAudioDevice initialized.
+[2018.01.08-13.22.16:019][ 53]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.08-13.22.16:024][ 53]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.01.08-15.22.16
+[2018.01.08-13.22.16:025][ 53]LogWorld: Bringing up level for play took: 0.004814
+[2018.01.08-13.22.16:027][ 53]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.119
+[2018.01.08-13.22.16:027][ 53]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.08-13.22.24:547][415]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.08-13.22.24:603][415]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.08-13.22.28:588][497]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.Actor_6.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2018.01.08-13.22.28:991][497]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_28:PersistentLevel.Actor_6.DebugSkelMeshComponent_15) - call TermArticulated first.
+[2018.01.08-13.22.29:581][497]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.08-13.23.08:307][537]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.08-13.23.13:191][773]BlueprintLog: New page: Compile Zombie
+[2018.01.08-13.23.15:095][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/Zombie" FILE="../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Blueprints/AI/Zombie.uasset" SILENT=true
+[2018.01.08-13.23.15:171][810]LogSavePackage: Save=43.81ms
+[2018.01.08-13.23.15:171][810]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/Zombie4BE087DD4961D1CF8373EEB420C59A7B.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Blueprints/AI/Zombie.uasset'
+[2018.01.08-13.23.15:181][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Blueprints/AI/Zombie.uasset
+[2018.01.08-13.23.17:055][852]LogSavePackage: Save=259.28ms
+[2018.01.08-13.23.17:055][852]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/ThirdPersonExampleMap483D510B44D667CD294CDB94A96753B5.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.08-13.23.17:068][852]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.08-13.23.17:555][852]LogSavePackage: Save=396.65ms
+[2018.01.08-13.23.17:555][852]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/ThirdPersonExampleMap_BuiltData9D0E8DD74F4036BA9C3DC4956B12BD8A.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.01.08-13.23.17:560][852]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.01.08-13.23.18:359][877]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.08-13.23.18:437][877]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.08-13.23.18:438][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.08-13.23.18:438][877]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 8, 2018, 5:23:18 PM)
+[2018.01.08-13.23.18:439][877]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.08-13.23.18:483][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044032s)
+[2018.01.08-13.23.18:484][877]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.08-13.23.18:484][877]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2018.01.08-13.23.18:485][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.045896s)
+[2018.01.08-13.23.18:537][877]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.08-13.23.18:556][877]LogInit: FAudioDevice initialized.
+[2018.01.08-13.23.18:605][877]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.08-13.23.18:608][877]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.01.08-15.23.18
+[2018.01.08-13.23.18:609][877]LogWorld: Bringing up level for play took: 0.003606
+[2018.01.08-13.23.18:611][877]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.703
+[2018.01.08-13.23.18:611][877]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.08-13.23.24:364][130]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.08-13.23.24:429][130]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.08-13.23.27:639][226]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.08-13.23.32:142][455]BlueprintLog: New page: Compile Zombie
+[2018.01.08-13.23.33:966][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/Zombie" FILE="../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Blueprints/AI/Zombie.uasset" SILENT=true
+[2018.01.08-13.23.34:046][491]LogSavePackage: Save=39.99ms
+[2018.01.08-13.23.34:046][491]LogSavePackage: Moving '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Saved/Zombie2B30835C4355C88112C35F9E9737C669.tmp' to '../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Blueprints/AI/Zombie.uasset'
+[2018.01.08-13.23.34:058][491]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/admin/Documents/Unreal Projects/Zombies/ZombileWar/ZombieWarFare/Content/Blueprints/AI/Zombie.uasset
