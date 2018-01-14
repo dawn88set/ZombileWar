@@ -488,3 +488,137 @@ LogInit: Object subsystem initialized
 [2018.01.14-12.17.11:407][293]Set new viewmode: Lit
 [2018.01.14-12.17.12:770][325]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2018.01.14-12.17.12:839][325]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.14-12.19.36:959][821]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FX_Embers" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.36:960][821]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.37:176][821]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FX_Embers" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.37:176][821]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.37:176][821]LogPackageName: SearchForPackageOnDisk took   0.216s, but failed to resolve JW_FlameDungeon.
+[2018.01.14-12.19.37:176][821]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FX_Embers" could not be resolved.
+[2018.01.14-12.19.37:177][821]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FogPlane02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.37:177][821]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.37:376][821]LogPackageName: SearchForPackageOnDisk took   0.212s, but failed to resolve JW_FlameDungeon.
+[2018.01.14-12.19.37:376][821]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FX_Embers" could not be resolved.
+[2018.01.14-12.19.37:376][821]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FogPlane02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.37:376][821]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.37:376][821]LogPackageName: SearchForPackageOnDisk took   0.198s, but failed to resolve JW_FlameDungeon.
+[2018.01.14-12.19.37:376][821]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FogPlane02" could not be resolved.
+[2018.01.14-12.19.37:603][823]LogPackageName: SearchForPackageOnDisk took   0.209s, but failed to resolve JW_FlameDungeon.
+[2018.01.14-12.19.37:603][823]LogPackageName: Warning: String asset reference "JW_FlameDungeon.FX.SM_FogPlane02" could not be resolved.
+[2018.01.14-12.19.37:796][823]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.37:796][823]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.37:796][823]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.37:796][823]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.37:996][823]LogPackageName: SearchForPackageOnDisk took   0.203s, but failed to resolve StaticMesh'FX_Meshes_IB.
+[2018.01.14-12.19.37:996][823]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" could not be resolved.
+[2018.01.14-12.19.37:996][823]LogPackageName: SearchForPackageOnDisk took   0.200s, but failed to resolve StaticMesh'FX_Meshes_IB.
+[2018.01.14-12.19.37:996][823]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" could not be resolved.
+[2018.01.14-12.19.38:125][824]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.38:125][824]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.38:297][824]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.38:297][824]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.38:297][824]LogPackageName: SearchForPackageOnDisk took   0.172s, but failed to resolve JW_Ice_Mountain.
+[2018.01.14-12.19.38:297][824]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2018.01.14-12.19.38:306][824]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.38:306][824]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.38:535][824]LogPackageName: SearchForPackageOnDisk took   0.225s, but failed to resolve JW_Ice_Mountain.
+[2018.01.14-12.19.38:535][824]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2018.01.14-12.19.38:535][824]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.38:535][824]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.38:535][824]LogPackageName: SearchForPackageOnDisk took   0.229s, but failed to resolve FX_Meshes.
+[2018.01.14-12.19.38:535][824]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2018.01.14-12.19.38:536][824]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.38:536][824]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.38:774][824]LogPackageName: SearchForPackageOnDisk took   0.218s, but failed to resolve FX_Meshes.
+[2018.01.14-12.19.38:774][824]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2018.01.14-12.19.38:774][824]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.38:774][824]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.38:774][824]LogPackageName: SearchForPackageOnDisk took   0.238s, but failed to resolve FX_Meshes.
+[2018.01.14-12.19.38:774][824]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2018.01.14-12.19.38:780][824]LogPackageName: Warning: String asset reference "'FX_Ambient.Meshes.SM_Bats'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.38:780][824]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.38:980][824]LogPackageName: SearchForPackageOnDisk took   0.222s, but failed to resolve FX_Meshes.
+[2018.01.14-12.19.38:980][824]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2018.01.14-12.19.38:980][824]LogPackageName: Warning: String asset reference "'FX_Ambient.Meshes.SM_Bats'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.38:981][824]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.38:981][824]LogPackageName: SearchForPackageOnDisk took   0.200s, but failed to resolve 'FX_Ambient.
+[2018.01.14-12.19.38:981][824]LogPackageName: Warning: String asset reference "'FX_Ambient.Meshes.SM_Bats'" could not be resolved.
+[2018.01.14-12.19.38:983][824]LogPackageName: Warning: String asset reference "CastleEffects.TouchToMoveArrow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.38:983][824]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.39:189][824]LogPackageName: SearchForPackageOnDisk took   0.202s, but failed to resolve 'FX_Ambient.
+[2018.01.14-12.19.39:189][824]LogPackageName: Warning: String asset reference "'FX_Ambient.Meshes.SM_Bats'" could not be resolved.
+[2018.01.14-12.19.39:189][824]LogPackageName: Warning: String asset reference "CastleEffects.TouchToMoveArrow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.39:189][824]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.39:189][824]LogPackageName: SearchForPackageOnDisk took   0.206s, but failed to resolve CastleEffects.
+[2018.01.14-12.19.39:189][824]LogPackageName: Warning: String asset reference "CastleEffects.TouchToMoveArrow" could not be resolved.
+[2018.01.14-12.19.39:407][825]LogPackageName: SearchForPackageOnDisk took   0.234s, but failed to resolve CastleEffects.
+[2018.01.14-12.19.39:407][825]LogPackageName: Warning: String asset reference "CastleEffects.TouchToMoveArrow" could not be resolved.
+[2018.01.14-12.19.39:407][825]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.39:407][825]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.39:632][825]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.39:632][825]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.39:632][825]LogPackageName: SearchForPackageOnDisk took   0.224s, but failed to resolve StaticMesh'FX_Meshes.
+[2018.01.14-12.19.39:632][825]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" could not be resolved.
+[2018.01.14-12.19.39:632][825]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.39:632][825]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.39:844][825]LogPackageName: SearchForPackageOnDisk took   0.235s, but failed to resolve StaticMesh'FX_Meshes.
+[2018.01.14-12.19.39:844][825]LogPackageName: Warning: String asset reference "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" could not be resolved.
+[2018.01.14-12.19.39:844][825]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.39:844][825]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.39:844][825]LogPackageName: SearchForPackageOnDisk took   0.212s to resolve m_FogSheet_02.
+[2018.01.14-12.19.39:856][825]LogPackageName: Warning: String asset reference "FX_Test_LAN.Meshes.SM_IceWall01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.39:856][825]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.40:062][825]LogPackageName: SearchForPackageOnDisk took   0.208s to resolve m_FogSheet_02.
+[2018.01.14-12.19.40:062][825]LogPackageName: Warning: String asset reference "FX_Test_LAN.Meshes.SM_IceWall01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.40:062][825]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.40:062][825]LogPackageName: SearchForPackageOnDisk took   0.206s, but failed to resolve FX_Test_LAN.
+[2018.01.14-12.19.40:062][825]LogPackageName: Warning: String asset reference "FX_Test_LAN.Meshes.SM_IceWall01" could not be resolved.
+[2018.01.14-12.19.40:095][825]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.40:095][825]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.40:319][825]LogPackageName: SearchForPackageOnDisk took   0.213s, but failed to resolve FX_Test_LAN.
+[2018.01.14-12.19.40:319][825]LogPackageName: Warning: String asset reference "FX_Test_LAN.Meshes.SM_IceWall01" could not be resolved.
+[2018.01.14-12.19.40:319][825]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.40:319][825]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.40:319][825]LogPackageName: SearchForPackageOnDisk took   0.224s to resolve m_FogSheet_02.
+[2018.01.14-12.19.40:320][825]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.40:320][825]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.40:504][825]LogPackageName: SearchForPackageOnDisk took   0.216s to resolve m_FogSheet_02.
+[2018.01.14-12.19.40:504][825]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.40:504][825]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.40:504][825]LogPackageName: SearchForPackageOnDisk took   0.184s to resolve m_FogSheet_02.
+[2018.01.14-12.19.40:504][825]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.40:504][825]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.40:708][825]LogPackageName: SearchForPackageOnDisk took   0.177s to resolve m_FogSheet_02.
+[2018.01.14-12.19.40:708][825]LogPackageName: Warning: String asset reference "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.40:708][825]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.40:708][825]LogPackageName: SearchForPackageOnDisk took   0.204s to resolve m_FogSheet_02.
+[2018.01.14-12.19.40:901][826]LogPackageName: SearchForPackageOnDisk took   0.218s to resolve m_FogSheet_02.
+[2018.01.14-12.19.48:402][848]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.48:402][848]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.48:631][848]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.48:631][848]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.48:631][848]LogPackageName: SearchForPackageOnDisk took   0.228s, but failed to resolve JW_Ice_Mountain.
+[2018.01.14-12.19.48:631][848]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2018.01.14-12.19.48:632][848]LogPackageName: Warning: String asset reference "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.48:632][848]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.48:862][848]LogPackageName: SearchForPackageOnDisk took   0.229s, but failed to resolve JW_Ice_Mountain.
+[2018.01.14-12.19.48:862][848]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2018.01.14-12.19.48:862][848]LogPackageName: Warning: String asset reference "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.48:862][848]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.48:862][848]LogPackageName: SearchForPackageOnDisk took   0.230s to resolve S_Survival_CA_Chicken_02.
+[2018.01.14-12.19.49:258][851]LogPackageName: SearchForPackageOnDisk took   0.289s to resolve S_Survival_CA_Chicken_02.
+[2018.01.14-12.19.50:577][854]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.50:577][854]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.50:853][854]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.50:853][854]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.50:853][854]LogPackageName: SearchForPackageOnDisk took   0.276s, but failed to resolve JW_Ice_Mountain.
+[2018.01.14-12.19.50:853][854]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2018.01.14-12.19.50:854][854]LogPackageName: Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.50:855][854]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.51:129][854]LogPackageName: SearchForPackageOnDisk took   0.285s, but failed to resolve JW_Ice_Mountain.
+[2018.01.14-12.19.51:129][854]LogPackageName: Warning: String asset reference "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2018.01.14-12.19.51:129][854]LogPackageName: Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.14-12.19.51:129][854]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.14-12.19.51:129][854]LogPackageName: SearchForPackageOnDisk took   0.275s, but failed to resolve Env_ALL_Artifacts.
+[2018.01.14-12.19.51:129][854]LogPackageName: Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2018.01.14-12.19.51:235][856]LogPackageName: SearchForPackageOnDisk took   0.270s, but failed to resolve Env_ALL_Artifacts.
+[2018.01.14-12.19.51:235][856]LogPackageName: Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
